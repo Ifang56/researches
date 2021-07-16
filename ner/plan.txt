@@ -1,0 +1,38 @@
+7-24
+fang:	'Fast and Accurate Entity Recognition with Iterated Dilated Convolutions.pdf'
+	'Simplify the Usage of Lexicon in Chinese NER'
+	
+
+cheng:	'Chinese NER Using Lattice LSTM.pdf'
+	'Long Short-Term Memory with Dynamic Skip Connections.pdf'
+	'Learning_Task-Specific_Representation_for_Novel_Words in sequence labeling.pdf'
+
+
+7-31
+fang:	'Uncertainty-Aware Label Refinement for Sequence Labeling.pdf'
+
+
+
+cheng:	TENER: Adapting Transformer Encoder for Named Entity Recognition.pdf'
+	FLAT: Chinese NER Using Flat-Lattice Transformer.pdf'
+	'A Unified Generative Framework for Various NER Subtasks.pdf'
+
+8-07
+fang:	整理笔记，提炼2个新创新点，准备实验
+cheng:  整理笔记，提炼2个新创新点，准备实验
+
+8-14
+fang：	创建git仓库，搭建代码架构
+cheng：  实现模块代码
+
+8-21
+fang：   开始写论文，读50篇ner论文，进行literature review章节
+cheng： 做实验，出报告
+
+8-28
+fang：     实验迭代
+cheng：   实验迭代
+
+9-4
+fang：  实验完成
+cheng：实验完成
